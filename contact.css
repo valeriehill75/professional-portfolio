@@ -40,6 +40,10 @@ body {
     line-height: 28px;
 }
 
+.form-group {
+    font-size: 20px;
+}
+
 .slim-line {
     background-color: tomato;
     color: tomato;
