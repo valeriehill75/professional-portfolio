@@ -40,40 +40,50 @@ body {
     line-height: 28px;
 }
 
-#kansas-image {
-    margin-bottom: 20px;
-    width: 225px;
-    height: 175px;
+#portfolio-div {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: lightgray;
+    border-radius: 5px;
+    text-align: center;
+    color: white
+
 }
 
-#buffalo-image {
+#portfolio-image {
     margin-bottom: 20px;
-    width: 235px;
-    height: 200px;
+    width: 475px;
+    height: 275px;
 }
 
-#bienvenidos-image {
-    margin-bottom: 20px;
-    width: 200px;
-    height: 250px;
+#project-div {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: lightgray;
+    border-radius: 5px;
+    text-align: center;
+    color: white   
 }
 
-#kitty-image {
+#project-image {
     margin-bottom: 20px;
-    width: 250px;
-    height: 200px;
+    width: 475px;
+    height: 275px;
 }
 
-#rosesRed-image {
-    margin-bottom: 20px;
-    width: 200px;
-    height: 230px;
+#weather-div {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: lightgray;
+    border-radius: 5px;
+    text-align: center;
+    color: white  
 }
 
-#statue-image {
+#weather-image {
     margin-bottom: 20px;
-    width: 200px;
-    height: 230px;
+    width: 475px;
+    height: 275px;
 }
 
 .slim-line {
